@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #00102a;
+    color: white;
+    font-family: sans-serif;
+    font-size: 10rem;
+}
+
+#banner{
+    width: 100%;
+}
+
+#profile{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    height: 40%;
+    border-radius: 50%;
+}
+
+.basic{
+    margin: 0;
+    position: absolute;
+    left: 30%;
+}
+
+.basic span{
+    font-size: 50%;
+    margin-right: 5rem;
+}
+
+.basic h1{
+    margin: 0;
+}
